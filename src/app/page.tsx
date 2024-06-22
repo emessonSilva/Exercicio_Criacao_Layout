@@ -3,7 +3,7 @@ import Menu from "./components/Menu";
 import TaskList from "./components/TaskList";
 import Head from "next/head";
 
-const Home: React.FC = () => {
+const Home = () => {
   return (
     <>
       <Head>
